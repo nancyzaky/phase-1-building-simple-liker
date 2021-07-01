@@ -4,6 +4,8 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+const heart = document.querySelectorAll('footer ul li span.like-glyph');
+console.log(heart);
 
 
 
